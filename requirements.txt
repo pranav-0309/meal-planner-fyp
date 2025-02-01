@@ -1,0 +1,7 @@
+smolagents
+streamlit
+sentence-transformers
+qdrant-client
+torch
+mem0ai
+dotenv
