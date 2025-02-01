@@ -26,7 +26,7 @@ This project is a meal planning application that leverages advanced AI models an
     ```
 
 2.  **Download the dataset**:
-    - Go to the [download page](./https://recipenlg.cs.put.poznan.pl/dataset).
+    - Go to the [download page](https://recipenlg.cs.put.poznan.pl/dataset).
     - Accept Terms and Conditions and download zip file.
     - Unpack the zip file and you'll get the `full_dataset.csv` file in the dataset directory. 
 
