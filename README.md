@@ -78,5 +78,5 @@ This project is licensed under a custom license. You may use the code for person
 ## Disclaimer
 
 - This project was built as a proof of concept/demo of Pranav Krishnakumar's research on Agentic RAG for his final year project. It is meant only to demonstrate that you can use AI Agents to perform RAG in a much more accurate manner compared to traditional RAG.
-- At times the AI's responses could be inaccurate so please cross check any import facts.
+- At times the AI's responses could be inaccurate so please cross check any important facts.
 - While it's rare, the AI may occasionally produce responses that lack proper formatting. Please keep in mind that the AI is instructed to provide formatted answers, so this is likely not due to an error in the code itself.
