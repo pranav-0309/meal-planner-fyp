@@ -17,7 +17,7 @@ BOT_AVATAR = "🤖"
 if "messages" not in st.session_state:
     st.session_state.messages = []
 if "llama_model" not in st.session_state:
-    st.session_state["llama_model"] = "Qwen/Qwen2.5-Coder-32B-Instruct"
+    st.session_state["qwen_model"] = "Qwen/Qwen2.5-Coder-32B-Instruct"
 
 # Create two columns for input and button
 col1, col2 = st.columns([3, 1])
